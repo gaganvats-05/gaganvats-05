@@ -1,4 +1,4 @@
-[![](https://user-images.githubusercontent.com/76703430/198006708-bc049320-c757-45f8-957e-e93e29857d3c.jpg)](https://www.linkedin.com/in/gagan-vats-74489a1a5/)
+<!-- [![](https://user-images.githubusercontent.com/76703430/198006708-bc049320-c757-45f8-957e-e93e29857d3c.jpg)](https://www.linkedin.com/in/gagan-vats-74489a1a5/) -->
 
 ### Languages
 
